@@ -6,7 +6,7 @@ Only authorized members of the project team, including the project manager, qual
 The decision to restrict access to the Document Library is based on the importance of maintaining version control and traceability for critical project documentation. By limiting access to authorized members, we can minimize the risk of accidental changes or unauthorized modifications. Additionally, this control measure enables us to track and assign responsibility for any changes made to the documents, which is crucial for compliance and audit purposes.
 
 
-#Flow of documenting
+# Flow of documenting
 
 Add the Document to the Repository:
 Navigate to the desired location within the repository where the document should be stored.
@@ -40,7 +40,7 @@ Communicate any updates or changes to the team members who need to be aware of t
 
 
 
-#Tags
+# Tags
 
 In Git, it is possible to tag a repository at any moment. A tag is simply a reference to the repository at a certain point in time, with a label. You can list all tags that are present in a repository and easily revert to the point in time the tag was made. GitHub even shows all tags in a drop down menu on the website, so browsing the repository at the time a tag was created is easy. We use this feature to tag the repository whenever a new version of a CI is created.
 
